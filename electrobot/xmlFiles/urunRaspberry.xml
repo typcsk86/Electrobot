@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<URUNLER>
+  <URUN>
+    <BASLIK>Raspberry Pi 2 Model B</BASLIK>
+    <ACIKLAMA>Raspberry Pi kredi kartı boyutunda bir mini bilgisayar kartıdır. Üstelik sadece birkaç dakikaya kurulumunu yapıp kullanmaya başlayabilirsiniz.</ACIKLAMA>
+    <LINK>raspberrypi2modelb1</LINK>
+  </URUN>
+  <URUN>
+    <BASLIK>Raspberry Pi Zero</BASLIK>
+    <ACIKLAMA>Bugüne kadar üretilen en küçük boyutlu bilgisayar Raspberry Pi Zero ile tanışmaya hazır olun! Raspberry Pi serisinin en kullanışlı modellerinden olan Raspberry Pi Zero ile birçok projeyi hayata geçirebilirsiniz.</ACIKLAMA>
+    <LINK>raspberrypizero1</LINK>
+  </URUN>
+  <URUN>
+    <BASLIK>Raspberry Pi 4 8GB</BASLIK>
+    <ACIKLAMA>Raspberry Pi 4, bir önceki model olan Raspberry Pi 3B+ üzerine oldukça fazla yenilik ile geliyor. İlk dikkat çeken özelliği önceki modelde 1GB ve LPDDR2 tipindeki RAM belleğin 2GB, 4GB ve 8GB LPDDR4-3200 seçenekleri ile gelmesi.</ACIKLAMA>
+    <LINK>raspberrypi41</LINK>
+  </URUN>
+</URUNLER>

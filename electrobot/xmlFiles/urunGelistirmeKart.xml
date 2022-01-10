@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<URUNLER>
+  <URUN>
+    <BASLIK>NodeMCU LoLin ESP8266 Geliştirme Kartı</BASLIK>
+    <ACIKLAMA>LoLin, üzerinde NodeMCU firmware yüklü ESP8266 WiFi modül barındıran bir geliştirme kartıdır. ESP8266 SDK'sı kullanılarak geliştirildiğinden, ekstradan bir mikrokontrolcüye ihtiyaç duymadan GPIO, PWM, IIC, 1-Wire ve ADC bağlantılarını destekler.</ACIKLAMA>
+    <LINK>nodemcugelistirme1</LINK>
+  </URUN>
+  <URUN>
+    <BASLIK>MEBSTART MEB Robot Yarışması Başlatma Modülü</BASLIK>
+    <ACIKLAMA>MEBSTART MEB Robot Yarışması Başlatma Modülü yarışmalarda sumo robot, çizgi izleyen robot, labirent robotlarını uzaktan aktif etmenize yardımcı olacaktır.</ACIKLAMA>
+    <LINK>mebstartgelistirme1</LINK>
+  </URUN>
+    <URUN>
+    <BASLIK>LattePanda Windows 10 Lisanslı 2G/32GB</BASLIK>
+    <ACIKLAMA>LattePanda tam sürüm Windows 10 çalıştırabilen, dört çekirdekli Intel işlemciye sahip bir geliştirme kartıdır.</ACIKLAMA>
+    <LINK>lattepandagelistirme1</LINK>
+  </URUN>
+    <URUN>
+    <BASLIK>RoboShield Arduino Robot Shield</BASLIK>
+    <ACIKLAMA>RoboShield Arduino Robot Shield kartı ile küçük ve orta ölçekli robotları ekstra bağlantılara gerek duymadan üzerinde bulunan hazır bileşenler ile gerçekleştirmeniz mümkün olacaktır.</ACIKLAMA>
+    <LINK>roboshieldgelistirme1</LINK>
+  </URUN>
+</URUNLER>

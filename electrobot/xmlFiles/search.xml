@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SEARCH>
+
+    <!--Kategoriler-->
+    <URUNVEKATEGORI>
+        <BASLIK>Arduino</BASLIK>
+        <LINK>arduinoUrunler</LINK>
+        <LINKURUN>../../arduinoUrunler</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>Raspberry</BASLIK>
+        <LINK>raspberryUrunler</LINK>
+        <LINKURUN>../../raspberryUrunler</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>Geliştirme Kartları</BASLIK>
+        <LINK>gelistirmekartUrunler</LINK>
+        <LINKURUN>../../gelistirmekartUrunler</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>Sensörler</BASLIK>
+        <LINK>sensorUrunler</LINK>
+        <LINKURUN>../../sensorUrunler</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>Araç Gereç</BASLIK>
+        <LINK>aracgerecUrunler</LINK>
+        <LINKURUN>../../aracgerecUrunler</LINKURUN>
+    </URUNVEKATEGORI>
+
+    <!--Ürünler-->
+    <!--Arduino-->
+    <URUNVEKATEGORI>
+        <BASLIK>Arduino Uno R3</BASLIK>
+        <LINK>urunSayfa/arduinoSayfa/arduinouno1</LINK>
+        <LINKURUN>../arduinoSayfa/arduinouno1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>Arduino Pro Mini</BASLIK>
+        <LINK>urunSayfa/arduinoSayfa/arduinopromini1</LINK>
+        <LINKURUN>../arduinoSayfa/arduinopromini1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>Arduino Leonardo R3</BASLIK>
+        <LINK>urunSayfa/arduinoSayfa/arduinoleonardo1</LINK>
+        <LINKURUN>../arduinoSayfa/arduinoleonardo1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>Arduino Nano</BASLIK>
+        <LINK>urunSayfa/arduinoSayfa/arduinonano1</LINK>
+        <LINKURUN>../arduinoSayfa/arduinonano1</LINKURUN>
+    </URUNVEKATEGORI>
+
+    <!--Raspberry-->
+    <URUNVEKATEGORI>
+        <BASLIK>Raspberry Pi 2 Model B</BASLIK>
+        <LINK>urunSayfa/raspberrySayfa/raspberrypi2modelb1</LINK>
+        <LINKURUN>../raspberrySayfa/raspberrypi2modelb1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>Raspberry Pi Zero</BASLIK>
+        <LINK>urunSayfa/raspberrySayfa/raspberrypizero1</LINK>
+        <LINKURUN>../raspberrySayfa/raspberrypizero1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>Raspberry Pi 4 8GB</BASLIK>
+        <LINK>urunSayfa/raspberrySayfa/raspberrypi41</LINK>
+        <LINKURUN>../raspberrySayfa/raspberrypi41</LINKURUN>
+    </URUNVEKATEGORI>
+
+    <!--Geliştirme Kartları-->
+    <URUNVEKATEGORI>
+        <BASLIK>NodeMCU LoLin ESP8266 Geliştirme Kartı</BASLIK>
+        <LINK>urunSayfa/gelistirmekartSayfa/nodemcugelistirme1</LINK>
+        <LINKURUN>../gelistirmekartSayfa/nodemcugelistirme1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>MEBSTART MEB Robot Yarışması Başlatma Modülü</BASLIK>
+        <LINK>urunSayfa/gelistirmekartSayfa/mebstartgelistirme1</LINK>
+        <LINKURUN>../gelistirmekartSayfa/mebstartgelistirme1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>LattePanda Windows 10 Lisanslı 2G/32GB</BASLIK>
+        <LINK>urunSayfa/gelistirmekartSayfa/lattepandagelistirme1</LINK>
+        <LINKURUN>../gelistirmekartSayfa/lattepandagelistirme1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>RoboShield Arduino Robot Shield</BASLIK>
+        <LINK>urunSayfa/gelistirmekartSayfa/roboshieldgelistirme1</LINK>
+        <LINKURUN>../gelistirmekartSayfa/roboshieldgelistirme1</LINKURUN>
+    </URUNVEKATEGORI>
+
+    <!--Sensör-->
+    <URUNVEKATEGORI>
+        <BASLIK>HC-SR04 Ultrasonik Mesafe Sensörü</BASLIK>
+        <LINK>urunSayfa/sensorSayfa/ultrasonikmesafesensor1</LINK>
+        <LINKURUN>../sensorSayfa/ultrasonikmesafesensor1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>HC-SR501 Ayarlanabilir IR Hareket Algılama Sensörü</BASLIK>
+        <LINK>urunSayfa/sensorSayfa/irhareketalgilamasensor1</LINK>
+        <LINKURUN>../sensorSayfa/irhareketalgilamasensor1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>DHT11 Isı ve Nem Sensörü Kart</BASLIK>
+        <LINK>urunSayfa/sensorSayfa/isivenemsensor1</LINK>
+        <LINKURUN>../sensorSayfa/isivenemsensor1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>TCRT5000 Kızılötesi Sensör</BASLIK>
+        <LINK>urunSayfa/sensorSayfa/kizilotesisensor1</LINK>
+        <LINKURUN>../sensorSayfa/kizilotesisensor1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>LDR Işık Sensörü Kartı (3 Pin)</BASLIK>
+        <LINK>urunSayfa/sensorSayfa/isiksensor1</LINK>
+        <LINKURUN>../sensorSayfa/isiksensor1</LINKURUN>
+    </URUNVEKATEGORI>
+
+    <!--Araç Gereç-->
+    <URUNVEKATEGORI>
+        <BASLIK>SD-9815 HASSAS TORNAVİDA SETİ (6pcs)</BASLIK>
+        <LINK>urunSayfa/aracgerecSayfa/hassastornavidaaracgerec1</LINK>
+        <LINKURUN>../aracgerecSayfa/hassastornavidaaracgerec1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>Jakemy Maket Bıçağı Cep Tipi JM-Z07</BASLIK>
+        <LINK>urunSayfa/aracgerecSayfa/maketbicakaracgerec1</LINK>
+        <LINKURUN>../aracgerecSayfa/maketbicakaracgerec1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>40 Pin Dişi-Erkek Jumper Kablo</BASLIK>
+        <LINK>urunSayfa/aracgerecSayfa/jumperaracgerec1</LINK>
+        <LINKURUN>../aracgerecSayfa/jumperaracgerec1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>Mano Şeffaf Malzeme Kutusu</BASLIK>
+        <LINK>urunSayfa/aracgerecSayfa/malzemekutusuaracgerec1</LINK>
+        <LINKURUN>../aracgerecSayfa/malzemekutusuaracgerec1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>140 Parça Kutulu Jumper Kablo Kiti</BASLIK>
+        <LINK>urunSayfa/aracgerecSayfa/jumperkutuluaracgerec1</LINK>
+        <LINKURUN>../aracgerecSayfa/jumperkutuluaracgerec1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>Küçük Kablo Bağı Paketi (Plastik Kelepçe)</BASLIK>
+        <LINK>urunSayfa/aracgerecSayfa/kablobagipaketiaracgerec1</LINK>
+        <LINKURUN>../aracgerecSayfa/kablobagipaketiaracgerec1</LINKURUN>
+    </URUNVEKATEGORI>
+    <URUNVEKATEGORI>
+        <BASLIK>Proskit Eğri Uçlu, Ufak Metal Cımbız 1PK-104T</BASLIK>
+        <LINK>urunSayfa/aracgerecSayfa/cimbizaracgerec1</LINK>
+        <LINKURUN>../aracgerecSayfa/cimbizaracgerec1</LINKURUN>
+    </URUNVEKATEGORI>
+    
+</SEARCH>

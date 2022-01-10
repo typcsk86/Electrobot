@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<URUNLER>
+  <URUN>
+    <BASLIK>Arduino Uno R3</BASLIK>
+    <ACIKLAMA>Orjinal Arduino Uno R3 ürünü ATmega328P işlemci kullanan bir geliştirme kartıdır.</ACIKLAMA>
+    <LINK>arduinouno1</LINK>
+  </URUN>
+  <URUN>
+    <BASLIK>Arduino Pro Mini</BASLIK>
+    <ACIKLAMA>Arduino Pro Mini 5V ile çalışan ve üzerinde Atmega328 mikrodenetçisi bulunduran bir geliştirme/prototip kartıdır.</ACIKLAMA>
+    <LINK>arduinopromini1</LINK>
+  </URUN>
+  <URUN>
+    <BASLIK>Arduino Leonardo R3</BASLIK>
+    <ACIKLAMA>Arduino Leonardo; Atmega32u4 temelli bir mikrodenetleyici kartıdır.</ACIKLAMA>
+    <LINK>arduinoleonardo1</LINK>
+  </URUN>
+<URUN>
+    <BASLIK>Arduino Nano</BASLIK>
+    <ACIKLAMA>Android Nano'da USB CH340 Serial Dönüştürücüsü kullanılmıştır.</ACIKLAMA>
+    <LINK>arduinonano1</LINK>
+  </URUN>
+</URUNLER>

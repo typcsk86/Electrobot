@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<URUNLER>
+  <URUN>
+    <BASLIK>HC-SR04 Ultrasonik Mesafe Sensörü</BASLIK>
+    <ACIKLAMA>2cm'den 400cm'ye kadar 3mm hassasiyetle ölçüm yapabilen bu ultrasonik sensör çeşididir. Uzaklık okuma, radar ve robot uygulamalarında kullanılabilir.</ACIKLAMA>
+    <LINK>ultrasonikmesafesensor1</LINK>
+  </URUN>
+  <URUN>
+    <BASLIK>HC-SR501 Ayarlanabilir IR Hareket Algılama Sensörü</BASLIK>
+    <ACIKLAMA>PIR sensörleri, bir ortamda oluşan canlı hareketini algılamak için kullanılan sensörlerdir.</ACIKLAMA>
+    <LINK>irhareketalgilamasensor1</LINK>
+  </URUN>
+  <URUN>
+    <BASLIK>DHT11 Isı ve Nem Sensörü Kart</BASLIK>
+    <ACIKLAMA>DHT11 sıcaklık ve nem algılayıcı kalibre edilmiş dijital sinyal çıkışı veren gelişmiş bir algılayıcı birimidir.</ACIKLAMA>
+    <LINK>isivenemsensor1</LINK>
+  </URUN>
+  <URUN>
+    <BASLIK>TCRT5000 Kızılötesi Sensör</BASLIK>
+    <ACIKLAMA>TCRT5000 çizgi ve cisim sensörü olarak çizgi izleyen, sumo, mini sumo başta olmak üzere bir çok robotik ve elektronik projede kullanabileceğiniz kızılötesi sensördür.</ACIKLAMA>
+    <LINK>kizilotesisensor1</LINK>
+  </URUN>
+  <URUN>
+    <BASLIK>LDR Işık Sensörü Kartı (3 Pin)</BASLIK>
+    <ACIKLAMA>Ortam ışığına göre dijital çıkış veren bu kart karanlık durumda 0V, sensör üzerine ışık düştüğü durumda ise 5V sinyal vermektedir.</ACIKLAMA>
+    <LINK>isiksensor1</LINK>
+  </URUN>
+</URUNLER>
