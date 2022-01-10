@@ -245,7 +245,7 @@ else{
             );
         $mail->SMTPAuth = True;
         $mail->SMTPSecure = 'ssl';
-        $mail->Host = 'smtp.gmail.com';
+        $mail->Host = 'asd';
         $mail->Port = '465';
         $mail->isHTML();
         $mail->Username = 'asd';
@@ -260,8 +260,6 @@ else{
         } else {
             
         }
-
-        //mail("mustafasah45@gmail.com",$Subject,$Message,$headers);
     }
     else{
         echo '<script language="javascript">alert("Please fill the empty place!!!")</script>';
