@@ -248,12 +248,12 @@ else{
         $mail->Host = 'smtp.gmail.com';
         $mail->Port = '465';
         $mail->isHTML();
-        $mail->Username = 'mustafasah764@gmail.com';
-        $mail->Password = '486486486M';
-        $mail->SetFrom('mustafasah764@gmail.com');
+        $mail->Username = 'asd';
+        $mail->Password = 'asd';
+        $mail->SetFrom('asd');
         $mail->Subject = $Subject;
         $mail->Body = nl2br("$headers \n\n $Message");
-        $mail->AddAddress('mustafasah45@gmail.com');
+        $mail->AddAddress('asd');
 
         if (!$mail->send()) {
             echo 'Mailer Error: '. $mail->ErrorInfo;
