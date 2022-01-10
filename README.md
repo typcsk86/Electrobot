@@ -31,7 +31,7 @@ Libaries: Bu projede yaptığımız sitenin responsive olması için BOOTSTRAP4 
 Database: Kayıt-Giriş işlemleri, Sepet işlemleri vs. işlemlerin veritabanına kaydı, kullanılması, güncellenmesi gibi işlemlerde katkı sağladım.
 ------------------------------
 ------------------------------
-Diller
+Genel Bilgiler
 ------------------------------
 Frontend: HTML, CSS, JAVASCRIPT
 ------------------------------
