@@ -6,7 +6,7 @@ Projede benim arayüz, arkayüz, veritabanı bağlantıları ve işlemlerine kad
 
 Grup Üyeleri ve Görevleri
 ------------------------------
-Ahmet Batuhan YILMAZ: Grup Başkanı: Frontend, Graphic Design
+Ahmet Batuhan YILMAZ: Frontend, Graphic Design
 ------------------------------
 Tayyip COŞKUN: Frontend, Backend, Database
 ------------------------------
