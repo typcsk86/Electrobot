@@ -17,10 +17,8 @@ Mustafa ALTUNTAŞ: Frontend, Backend
 Yusuf GÜLBİN: Frontend
 ------------------------------
 Hasan ARPAT: Testing and Bug Fixing
-
 ------------------------------
 ------------------------------
-
 Projeye Katkılarım
 ------------------------------
 Frontend: Navbar-Footer tasarımları, Anasayfa tasarımı, Kategori-ürün sayfası tasarımları, Hesap sayfası tasarımı.
@@ -30,10 +28,8 @@ Backend: Hesap bilgileri, Kayıt-Giriş işlemleri, Sepet işlemleri, Sipariş i
 Libaries: Bu projede yaptığımız sitenin responsive olması için BOOTSTRAP4 kullandık. Sitedeki kategori sayfalarında bulunan ürünlerin AJAX ile dinamik bir şekilde arayüze eklenmesini sağladım.
 ------------------------------
 Database: Kayıt-Giriş işlemleri, Sepet işlemleri vs. işlemlerin veritabanına kaydı, kullanılması, güncellenmesi gibi işlemlerde katkı sağladım.
-
 ------------------------------
 ------------------------------
-
 Diller
 ------------------------------
 Frontend: HTML, CSS, JAVASCRIPT
