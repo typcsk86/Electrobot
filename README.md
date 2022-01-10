@@ -1,5 +1,5 @@
 # Electrobot
-E-Ticaret Projesi
+E-Ticaret Ekip Projesi
 
 Bu proje e-commerce dersinde verilmiş ödev için yapılmış projedir. Bu projede 6 kişi bulunmaktadır.
 Projede benim arayüz, arkayüz, veritabanı bağlantıları ve işlemlerine kadar birçok alanda katkım bulunmaktadır.
